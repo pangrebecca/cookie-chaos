@@ -1,0 +1,79 @@
+﻿body {
+    width: inherit;
+    height: inherit;
+    background-color: black;
+    border:1px white;
+    overflow:hidden;
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+.monster, .bird {
+    position: absolute;
+    border: none;
+}
+#elmo {
+    position:absolute;
+     border: none;
+}
+.bird {
+    margin-left: 500px;
+    margin-top: 300px;
+}
+
+.mallet {
+    position: absolute;
+     border: none;
+}
+.life {
+    border: none;
+}
+br {
+    height: 20px;
+}
+#customspan {
+    text-align: right;
+}
+#middle {
+    text-align: center;
+}
+h2 {
+    font-size: 15px;
+    height: 20px;
+    width: 100%;
+    text-align:center;
+    color: lavenderblush;
+}
+div,span{
+    font-size: 18px;
+    height: 20px;
+    color: pink;
+    font-weight: bolder;
+    margin: 0px;
+    padding: 0px;
+    display:inline-block;
+}
+#von {
+    border: none;
+    position: absolute;
+}
+#bat1, #bat2, #bat3, #bat4 {
+    border: none;
+    position: absolute;
+}
+img {
+    margin: 0px;
+    padding: 0px;
+    border: 1px dotted yellow;
+}
+button {
+    height: 20px;
+    color: black;
+    background-color: pink;
+}
